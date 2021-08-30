@@ -13,14 +13,14 @@ azure cli|latest
 
 ### Usage
 
-Build image
+Pull image
 
 ```bash
-docker build -t <yourname>/azure-docker-kubectl:[version] .
+docker pull qiuguobin/azure-docker-kubectl:latest
 ```
 
 Run image
 
 ```bash
-docker run -it <yourname>/azurecli-docker-kubectl:[version]
+docker run -it qiuguobin/azurecli-docker-kubectl:latest
 ```
