@@ -1,4 +1,4 @@
-# Docker image
+# azurecli-docker-kubectl Docker Image
 
 An image based on `ubuntu`, have `azure cli`,`docker`,`kubectl` installed. 
 
